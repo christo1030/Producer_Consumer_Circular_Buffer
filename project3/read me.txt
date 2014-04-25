@@ -1,0 +1,4 @@
+compile:
+gcc -o project3 project3.c -lpthread -lrt 
+
+run:  ./project3
